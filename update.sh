@@ -10,4 +10,4 @@ echo "Удаление неиспользуемых пакетов..."
 sudo apt autoremove -y
 echo "Очистка кэша..."
 sudo apt autoclean
-echo "Обновление завершено.
+echo "Обновление завершено."
